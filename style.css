@@ -51,6 +51,9 @@ body {
 .container-scroll section:nth-of-type(4) {
   background-color: #fefbe7;
 }
+.container-scroll section:nth-of-type(5) {
+  background-color: #f9ebc8;
+}
 
 .img {
   position: relative;
