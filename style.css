@@ -170,3 +170,7 @@ img {
   align-items: center;
   line-height: 2;
 }
+
+.last-page div {
+  width: 80%;
+}
